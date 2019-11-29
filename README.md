@@ -23,3 +23,6 @@ Reason around challenges how to monitor the operations of this large and complex
  
 
 In your report, you need to provide a clear reasoning for you choices, discuss alternatives. Elaborate about the challenges on how to monitor, operate and maintain such a network. How does a router failiure impact the network/game play. Where are the potential single point of failiures? What is the cost of resiliency/redundancy? 
+
+Note: Also added a clarification on why additional 5 gbps data is needed. 
+
